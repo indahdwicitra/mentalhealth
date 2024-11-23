@@ -32,7 +32,14 @@ In today’s fast-paced globalized era, the pressures of work, academic responsi
   - TensorFlow
   - Keras
   - Scikit-learn
-  
+
+- **Cloud Computing:**
+  - Google Cloud Run
+  - Cloud Storage
+  - Cloud SQL
+  - VScode
+  - Postman
+  - Docker
 
 - **Mobile Development:**
   - Android Studio
@@ -42,13 +49,6 @@ In today’s fast-paced globalized era, the pressures of work, academic responsi
   - Firebase Authentication
   - Material Builder Theme
 
-- **Cloud Computing:**
-  - Google Cloud Run
-  - Cloud Storage
-  - Cloud SQL
-  - VScode
-  - Postman
-  - Docker
 
 <!-- ## Architecture Overview
 
