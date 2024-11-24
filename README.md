@@ -67,10 +67,10 @@ In today’s fast-paced globalized era, the pressures of work, academic responsi
 
 | Nama  | LinkedIn |
 |-------|----------|
-| Dadan Ramdani	 | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]()  |
-| Ihsan Sulaeman Nuraziz  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]()  |
-| Nadila Agustiani Farhan	  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]()  |
+| Dadan Ramdani	 | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dadan-ramdani-56b749330/)  |
+| Ihsan Sulaeman Nuraziz  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ihsan-sulaeman-nuraziz-037708265/)  |
+| Nadila Agustiani Farhan	  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadila-agustiani-farhan-4888612aa/)  |
 | Indah Dwi Citrawati  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/indah-dwi-citrawati-1a151930a/)  |
-| Siti Nurpadilah	  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]()  |
-| Haryanto Nugroho	  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]()  |
-| Maulana Yusuf  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]()  |
+| Siti Nurpadilah	  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siti-nurpadilah-9a3497333/)  |
+| Haryanto Nugroho	  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haryanto-nugroho/)  |
+| Maulana Yusuf  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maulana-yusuf-a8748b335/)  |
