@@ -37,6 +37,8 @@ In today’s fast-paced globalized era, the pressures of work, academic responsi
   - Google Cloud Run
   - Cloud Storage
   - Cloud SQL
+  - Compute Engine
+  - MongoDb
   - VScode
   - Postman
   - Docker
