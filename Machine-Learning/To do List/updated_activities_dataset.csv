@@ -1,0 +1,61 @@
+ID,Activity Description,Profession,Hobby
+1,Playing soccer,Student,Sports
+2,Playing basketball,Student,Sports
+3,Cycling,Student,Sports
+4,Morning jogging,Student,Sports
+5,Swimming,Student,Sports
+6,Yoga,Student,Sports
+7,Futsal,Student,Sports
+8,Swimming in the pool,Student,Sports
+9,Weightlifting,Student,Sports
+10,Watching sports matches,Student,Sports
+11,Playing soccer,Worker,Sports
+12,Playing basketball,Worker,Sports
+13,Cycling,Worker,Sports
+14,Morning jogging,Worker,Sports
+15,Swimming,Worker,Sports
+16,Yoga,Worker,Sports
+17,Futsal,Worker,Sports
+18,Swimming in the pool,Worker,Sports
+19,Weightlifting,Worker,Sports
+20,Watching sports matches,Worker,Sports
+21,Reading books,Student,Study
+22,Studying school subjects,Student,Study
+23,Writing notes or journals,Student,Study
+24,Doing school assignments,Student,Study
+25,Learning a foreign language,Student,Study
+26,Attending online classes,Student,Study
+27,Reading novels or fiction stories,Student,Study
+28,Learning new skills,Student,Study
+29,Reading articles or scientific journals,Student,Study
+30,Group discussions or collaborative study,Student,Study
+31,Reading books,Worker,Study
+32,Studying work-related subjects,Worker,Study
+33,Writing reports or notes,Worker,Study
+34,Doing office tasks,Worker,Study
+35,Learning a foreign language,Worker,Study
+36,Attending webinars or training,Worker,Study
+37,Reading novels or fiction stories,Worker,Study
+38,Learning new skills,Worker,Study
+39,Reading articles or scientific journals,Worker,Study
+40,Group discussions or collaborative study,Worker,Study
+41,Watching movies,Student,Entertainment
+42,Watching TV shows,Student,Entertainment
+43,Playing video games,Student,Entertainment
+44,Listening to music,Student,Entertainment
+45,Attending live streaming events,Student,Entertainment
+46,Watching dramas or movies,Student,Entertainment
+47,Reading comics or manga,Student,Entertainment
+48,Watching YouTube videos,Student,Entertainment
+49,Talking with friends or family,Student,Entertainment
+50,Attending concerts or music events,Student,Entertainment
+51,Watching movies,Worker,Entertainment
+52,Watching TV shows,Worker,Entertainment
+53,Playing video games,Worker,Entertainment
+54,Listening to music,Worker,Entertainment
+55,Attending live streaming events,Worker,Entertainment
+56,Watching dramas or movies,Worker,Entertainment
+57,Reading comics or manga,Worker,Entertainment
+58,Watching YouTube videos,Worker,Entertainment
+59,Talking with friends or family,Worker,Entertainment
+60,Attending concerts or music events,Worker,Entertainment
