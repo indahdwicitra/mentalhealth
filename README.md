@@ -24,6 +24,8 @@ This project was created to complete the Capstone Project assignment for Bangkit
 ## About
 In today’s fast-paced globalized era, the pressures of work, academic responsibilities, and social demands often lead to stress, especially among young people. Limited access to mental health services makes it challenging for individuals to maintain their mental well-being. According to data from the Ministry of Health, Indonesia has only around 0.4 psychiatrists per 100,000 people, far below the WHO standard. Additionally, negative stigma around mental health prevents many from seeking help. To address this issue, our team plans to develop an app that helps users independently measure their stress levels, providing easily accessible mental health support. How can this digital tool effectively measure and manage an individual’s stress levels? With a digital approach, we hope this app can serve as a practical solution for mental health care and reduce stigma in society.
 
+## Download Link
+Here is the [Download Apk](https://drive.google.com/drive/folders/1MxogAr13jtCobBG307VD-zTYvUsLnrnt?usp=drive_link) of Mental Health Support App
 
 ## Built With
 
