@@ -1,2 +1,2 @@
 # Readme
-This is a placeholder file.
+This is a folder project from mobile development path
