@@ -42,8 +42,8 @@ The following libraries are imported in the code:
 - The model is trained to predict the relationship between profession and activity.
 
 ### Model Storage ### 
-- The trained model is saved as a `.h5` file:
+- The trained model is saved as a `.tflite` file:
      ```python
-     model.save('to_do_list.h5')
+     model.save('to_do_list.tflite')
      ```
 - This file is submitted to the cloud computing team for API integration.
