@@ -43,3 +43,29 @@ The project uses a dataset containing text samples and corresponding emotion lab
    ```bash
    python main.py
    ```
+
+## Project Structure
+```
+.
+├── main.py                 # Main script for training and evaluation
+├── emotion_sentimen_dataset.csv  # Dataset file (not included in the repository)
+├── model.keras             # Trained TensorFlow model
+├── emotion_model.tflite    # TFLite model for deployment
+├── README.md               # Project documentation
+```
+
+## Usage
+### Training the Model
+The script processes the dataset, trains a sentiment analysis model, and saves the trained model in both `.keras` and `.tflite` formats. To train and evaluate the model:
+```bash
+python main.py
+```
+
+### Testing Predictions
+After training, the script demonstrates predictions for sample inputs. You can modify `test_texts` in the script to test your custom inputs.
+
+### Deploying the Model
+Use the `emotion_model.tflite` file for deployment on edge devices or mobile applications.
+
+## Results
+The model achieves high accuracy for sentiment classification. The training and validation performance are visualized in accuracy and loss graphs.
