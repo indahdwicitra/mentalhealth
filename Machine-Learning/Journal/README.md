@@ -47,11 +47,11 @@ The project uses a dataset containing text samples and corresponding emotion lab
 ## Project Structure
 ```
 .
-├── main.py                 # Main script for training and evaluation
+├── Journal.py                 # Main script for training and evaluation
 ├── emotion_sentimen_dataset.csv  # Dataset file (not included in the repository)
 ├── model.keras             # Trained TensorFlow model
 ├── emotion_model.tflite    # TFLite model for deployment
-├── README.md               # Project documentation
+├── README.md               # Journal ML documentation
 ```
 
 ## Usage
