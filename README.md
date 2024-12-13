@@ -18,7 +18,7 @@ This project was created to complete the Capstone Project assignment for Bangkit
 ## Mental Health Support APP
 
 <p align="center">
-  <!-- <img src="https://github.com/" style="width:100%;"> -->
+   <img src="https://github.com/indahdwicitra/mentalhealth/blob/main/poster.jpg" style="width:100%;"> 
 </p>
 
 ## About
@@ -54,10 +54,10 @@ Here is the [Download Apk](https://drive.google.com/drive/folders/1MxogAr13jtCob
   - Material Builder Theme
 
 
-<!-- ## Architecture Overview
+## Architecture Overview
 
 <p align="center">
-  <img src="" alt="Deskripsi Gambar" style="width:100%;">
+  <img src="https://github.com/indahdwicitra/mentalhealth/Cloud-Computing/architecture.png" alt="Deskripsi Gambar" style="width:100%;">
 </p> -->
 
  
