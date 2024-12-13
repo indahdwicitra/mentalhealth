@@ -24,8 +24,7 @@ This project uses the following libraries for various purposes:
 - scikit-learn (includes components: train_test_split, mean_squared_error)
 ### Interactivity and Visualization ###
 - ipywidgets (includes components: widgets, interact)
-### Jupyter Notebook Tools ###
-- IPython (includes components: IPython.display.display)
+
 ### Code implementation ###
 The following libraries are imported in the code:
 - import pandas as pd
