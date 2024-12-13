@@ -44,7 +44,7 @@ The following libraries are imported in the code:
 
 ### Model Storage ### 
 - The trained model is saved as a `.h5` file:
-     ``python
+     ```python
      model.save('to_do_list.h5')
      ```
 - This file is submitted to the cloud computing team for API integration.
