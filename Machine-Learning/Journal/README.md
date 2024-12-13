@@ -69,14 +69,3 @@ Use the `emotion_model.tflite` file for deployment on edge devices or mobile app
 
 ## Results
 The model achieves high accuracy for sentiment classification. The training and validation performance are visualized in accuracy and loss graphs.
-
-## Contribution
-Contributions are welcome! Feel free to open issues or create pull requests to improve the project.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
----
-
-For any questions or support, please contact the project maintainers.
-
