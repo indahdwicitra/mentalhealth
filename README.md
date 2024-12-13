@@ -58,14 +58,21 @@ Here is the [Download Apk](https://drive.google.com/drive/folders/1MxogAr13jtCob
 
 <p align="center">
   <img src="https://github.com/indahdwicitra/mentalhealth/blob/main/Cloud-Computing/architecture.png" alt="Deskripsi Gambar" style="width:100%;">
-</p> -->
+</p> 
 
  
 ## Demo Video
 [Link here](https://drive.google.com/drive/folders/1x2mn22j2gT1VQ0JcYXyok3SHxmy4NL2V?usp=drive_link) - Demo Video
 
 ## Mental Health App Features
+Key features of our Mental Health application:
 
+- Journal: A safe space to record and express your feelings.
+- Questionnaire: Provides questions to evaluate your mental condition with personalized results.
+- To-Do List: Activity recommendations to help manage stress and boost productivity.
+- Article Content: In-depth information to broaden your knowledge of mental health.
+  
+This app is designed to support your mental well-being in a practical and accessible way!
 
 ## Contact
 
